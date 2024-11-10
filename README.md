@@ -1,7 +1,7 @@
 # Securis-Privacy-Policy
 Securis Bot Privacy Policy
 
-Thank you for choosing Securis! This Privacy Policy explains how we handle the collection, use, and protection of your data when you use Kylo. By using the bot, you agree to the terms outlined here.
+Thank you for choosing Securis! This Privacy Policy explains how we handle the collection, use, and protection of your data when you use Securis. By using the bot, you agree to the terms outlined here.
 
 Data Collection
 
